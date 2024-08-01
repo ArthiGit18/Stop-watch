@@ -1,0 +1,9 @@
+.stop-watch {
+	height: 100vh;
+	width: 100%;
+	background-color: #d68ad5;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
